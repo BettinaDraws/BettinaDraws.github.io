@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -474,6 +477,7 @@ h6,
 }
 #header4-1 .mbr-section-title {
   text-align: center;
+  font-family: 'Arimo', sans-serif;
 }
 #header4-1 .mbr-section-lead {
   text-align: center;
@@ -491,4 +495,5 @@ h6,
 }
 #social-buttons2-4 .mbr-section-title {
   color: #20242b;
+  font-family: 'Arimo', sans-serif;
 }
